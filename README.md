@@ -1,2 +1,2 @@
 # local-LLM
-Run an LLM locally that does useful work.
+Work toward an LLM that runs locally and does useful work.
